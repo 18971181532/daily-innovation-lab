@@ -1,0 +1,585 @@
+{
+  "title": "Neon Paper Cranes",
+  "premise": "In the floating city of Hoshima, memories can be folded into paper familiars. When whole neighborhoods begin forgetting the same night, a rooftop courier and a disgraced archivist must trace the missing memories before the city votes to erase its own past.",
+  "seed": 974346091522285879,
+  "characters": [
+    {
+      "name": "Mina Kisaragi",
+      "role": "protagonist",
+      "goal": "restore the memories stolen from the Lantern District",
+      "fear": "becoming emotionally numb like her missing mother",
+      "trait": "impulsively compassionate",
+      "faction": "Sky Post"
+    },
+    {
+      "name": "Ren Vale",
+      "role": "deuteragonist",
+      "goal": "prove the public archive was deliberately corrupted",
+      "fear": "trusting evidence that has been altered",
+      "trait": "meticulous but quietly idealistic",
+      "faction": "Civic Archive"
+    },
+    {
+      "name": "Sora Nami",
+      "role": "rival",
+      "goal": "win control of the courier routes before the monsoon season",
+      "fear": "being valued only as a replacement for an older sibling",
+      "trait": "competitive and unexpectedly loyal",
+      "faction": "Blue Kite Guild"
+    },
+    {
+      "name": "Doctor Ilya Mori",
+      "role": "mentor",
+      "goal": "keep memory-folding technology out of military hands",
+      "fear": "admitting that her own research enabled the crisis",
+      "trait": "wry, evasive, and protective",
+      "faction": "Independent Fold Lab"
+    },
+    {
+      "name": "Kaede Voss",
+      "role": "antagonist",
+      "goal": "erase the city's shared trauma to prevent another civil war",
+      "fear": "that people will always choose revenge when given the truth",
+      "trait": "calm, sincere, and ruthlessly paternal",
+      "faction": "Continuity Council"
+    },
+    {
+      "name": "Pico",
+      "role": "support",
+      "goal": "recover the voice sealed inside its paper body",
+      "fear": "unfolding into someone the team no longer recognizes",
+      "trait": "mischievous and pattern-obsessed",
+      "faction": "Unregistered Familiar"
+    }
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "title": "A Signal Called Memory Versus Identity",
+      "act": "Setup",
+      "theme": "memory versus identity",
+      "focus": "Mina Kisaragi",
+      "secondary": "Ren Vale",
+      "tension": 2.8,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "A routine mission exposes evidence that the season's central mystery is already moving. The oldest active question concerns why Sky Post erased a record connected to memory versus identity."
+        },
+        {
+          "label": "Character choice",
+          "description": "Mina Kisaragi pursues “restore the memories stolen from the Lantern District” but must act through their fear of becoming emotionally numb like her missing mother; the decision highlights their impulsively compassionate nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Ren Vale, representing Civic Archive, challenges the method rather than the goal. At tension 2.8/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A new question takes control of the ending: why Sky Post erased a record connected to memory versus identity."
+        }
+      ],
+      "introduced_threads": [
+        "why Sky Post erased a record connected to memory versus identity"
+      ],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their uneasy trust deepens: Mina Kisaragi ↔ Ren Vale shifts from +1 to +2."
+      ]
+    },
+    {
+      "number": 2,
+      "title": "Paper Wings over Family",
+      "act": "Setup",
+      "theme": "chosen family",
+      "focus": "Pico",
+      "secondary": "Sora Nami",
+      "tension": 3.4,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "A small failure reveals a rule of the world that someone powerful has been hiding. The oldest active question concerns why Sky Post erased a record connected to memory versus identity."
+        },
+        {
+          "label": "Character choice",
+          "description": "Pico pursues “recover the voice sealed inside its paper body” but must act through their fear of unfolding into someone the team no longer recognizes; the decision highlights their mischievous and pattern-obsessed nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Sora Nami, representing Blue Kite Guild, challenges the method rather than the goal. At tension 3.4/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A new question takes control of the ending: who benefits when Pico's fear becomes public."
+        }
+      ],
+      "introduced_threads": [
+        "who benefits when Pico's fear becomes public"
+      ],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Pico and Sora Nami form a fragile working connection."
+      ]
+    },
+    {
+      "number": 3,
+      "title": "A Signal Called The Ethics Of Forgetting",
+      "act": "Setup",
+      "theme": "the ethics of forgetting",
+      "focus": "Ren Vale",
+      "secondary": "Doctor Ilya Mori",
+      "tension": 4.8,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "A public celebration is interrupted by a private impossibility only the focus character recognizes. The oldest active question concerns why Sky Post erased a record connected to memory versus identity."
+        },
+        {
+          "label": "Character choice",
+          "description": "Ren Vale pursues “prove the public archive was deliberately corrupted” but must act through their fear of trusting evidence that has been altered; the decision highlights their meticulous but quietly idealistic nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Doctor Ilya Mori, representing Independent Fold Lab, challenges the method rather than the goal. At tension 4.8/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A new question takes control of the ending: why Civic Archive erased a record connected to the ethics of forgetting."
+        }
+      ],
+      "introduced_threads": [
+        "why Civic Archive erased a record connected to the ethics of forgetting"
+      ],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their shared secret deepens: Ren Vale ↔ Doctor Ilya Mori shifts from -1 to +0."
+      ]
+    },
+    {
+      "number": 4,
+      "title": "When Our Promise Fractured",
+      "act": "Escalation",
+      "theme": "hope after public failure",
+      "focus": "Doctor Ilya Mori",
+      "secondary": "Kaede Voss",
+      "tension": 5.2,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "The apparent solution from the previous episode produces a more personal cost. The oldest active question concerns why Sky Post erased a record connected to memory versus identity."
+        },
+        {
+          "label": "Character choice",
+          "description": "Doctor Ilya Mori pursues “keep memory-folding technology out of military hands” but must act through their fear of admitting that her own research enabled the crisis; the decision highlights their wry, evasive, and protective nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Kaede Voss, representing Continuity Council, challenges the method rather than the goal. At tension 5.2/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A new question takes control of the ending: the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands."
+        }
+      ],
+      "introduced_threads": [
+        "the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands"
+      ],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their former partnership fractures: Doctor Ilya Mori ↔ Kaede Voss shifts from -4 to -5."
+      ]
+    },
+    {
+      "number": 5,
+      "title": "The Identity Paradox",
+      "act": "Escalation",
+      "theme": "memory versus identity",
+      "focus": "Mina Kisaragi",
+      "secondary": "Sora Nami",
+      "tension": 5.7,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "The apparent solution from the previous episode produces a more personal cost. The oldest active question concerns why Sky Post erased a record connected to memory versus identity."
+        },
+        {
+          "label": "Character choice",
+          "description": "Mina Kisaragi pursues “restore the memories stolen from the Lantern District” but must act through their fear of becoming emotionally numb like her missing mother; the decision highlights their impulsively compassionate nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Sora Nami, representing Blue Kite Guild, challenges the method rather than the goal. At tension 5.7/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A new question takes control of the ending: who benefits when Mina Kisaragi's fear becomes public."
+        }
+      ],
+      "introduced_threads": [
+        "who benefits when Mina Kisaragi's fear becomes public"
+      ],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their rivalry fractures: Mina Kisaragi ↔ Sora Nami shifts from -2 to -3."
+      ]
+    },
+    {
+      "number": 6,
+      "title": "Kaede Voss and the Unpaid Price",
+      "act": "Escalation",
+      "theme": "chosen family",
+      "focus": "Kaede Voss",
+      "secondary": "Pico",
+      "tension": 6.0,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "Two factions pursue the same objective for incompatible reasons. The oldest active question concerns who benefits when Pico's fear becomes public."
+        },
+        {
+          "label": "Character choice",
+          "description": "Kaede Voss pursues “erase the city's shared trauma to prevent another civil war” but must act through their fear of that people will always choose revenge when given the truth; the decision highlights their calm, sincere, and ruthlessly paternal nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Pico, representing Unregistered Familiar, challenges the method rather than the goal. At tension 6.0/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The cast resolves why Sky Post erased a record connected to memory versus identity, but the answer transfers responsibility to Kaede Voss."
+        }
+      ],
+      "introduced_threads": [
+        "who benefits when Kaede Voss's fear becomes public"
+      ],
+      "resolved_threads": [
+        "why Sky Post erased a record connected to memory versus identity"
+      ],
+      "relationship_changes": [
+        "Their creator mystery deepens: Kaede Voss ↔ Pico shifts from -2 to -1."
+      ]
+    },
+    {
+      "number": 7,
+      "title": "When Our Promise Fractured",
+      "act": "Escalation",
+      "theme": "the ethics of forgetting",
+      "focus": "Sora Nami",
+      "secondary": "Mina Kisaragi",
+      "tension": 7.3,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "The apparent solution from the previous episode produces a more personal cost. The oldest active question concerns who benefits when Pico's fear becomes public."
+        },
+        {
+          "label": "Character choice",
+          "description": "Sora Nami pursues “win control of the courier routes before the monsoon season” but must act through their fear of being valued only as a replacement for an older sibling; the decision highlights their competitive and unexpectedly loyal nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Mina Kisaragi, representing Sky Post, challenges the method rather than the goal. At tension 7.3/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The secondary character admits a motive that changes the balance of trust."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their rivalry deepens: Sora Nami ↔ Mina Kisaragi shifts from -3 to -2."
+      ]
+    },
+    {
+      "number": 8,
+      "title": "When Our Promise Fractured",
+      "act": "Escalation",
+      "theme": "hope after public failure",
+      "focus": "Ren Vale",
+      "secondary": "Pico",
+      "tension": 7.4,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "Two factions pursue the same objective for incompatible reasons. The oldest active question concerns why Civic Archive erased a record connected to the ethics of forgetting."
+        },
+        {
+          "label": "Character choice",
+          "description": "Ren Vale pursues “prove the public archive was deliberately corrupted” but must act through their fear of trusting evidence that has been altered; the decision highlights their meticulous but quietly idealistic nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Pico, representing Unregistered Familiar, challenges the method rather than the goal. At tension 7.4/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The cast resolves who benefits when Pico's fear becomes public, but the answer transfers responsibility to Ren Vale."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [
+        "who benefits when Pico's fear becomes public"
+      ],
+      "relationship_changes": [
+        "Ren Vale and Pico form a fragile working connection."
+      ]
+    },
+    {
+      "number": 9,
+      "title": "Fault Lines of Memory Versus Identity",
+      "act": "Escalation",
+      "theme": "memory versus identity",
+      "focus": "Mina Kisaragi",
+      "secondary": "Pico",
+      "tension": 7.9,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "The apparent solution from the previous episode produces a more personal cost. The oldest active question concerns why Civic Archive erased a record connected to the ethics of forgetting."
+        },
+        {
+          "label": "Character choice",
+          "description": "Mina Kisaragi pursues “restore the memories stolen from the Lantern District” but must act through their fear of becoming emotionally numb like her missing mother; the decision highlights their impulsively compassionate nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Pico, representing Unregistered Familiar, challenges the method rather than the goal. At tension 7.9/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "A victory confirms that the group's original strategy can never solve the real problem."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [],
+      "relationship_changes": [
+        "Their found family fractures: Mina Kisaragi ↔ Pico shifts from +3 to +2."
+      ]
+    },
+    {
+      "number": 10,
+      "title": "The Last Shape of Chosen Family",
+      "act": "Climax",
+      "theme": "chosen family",
+      "focus": "Sora Nami",
+      "secondary": "Kaede Voss",
+      "tension": 9.2,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "A recovered memory forces the cast to reinterpret the promise that united them. The oldest active question concerns the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands."
+        },
+        {
+          "label": "Character choice",
+          "description": "Sora Nami pursues “win control of the courier routes before the monsoon season” but must act through their fear of being valued only as a replacement for an older sibling; the decision highlights their competitive and unexpectedly loyal nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Kaede Voss, representing Continuity Council, challenges the method rather than the goal. At tension 9.2/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The cast resolves why Civic Archive erased a record connected to the ethics of forgetting, but the answer transfers responsibility to Sora Nami."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [
+        "why Civic Archive erased a record connected to the ethics of forgetting"
+      ],
+      "relationship_changes": [
+        "Their coerced alliance deepens: Sora Nami ↔ Kaede Voss shifts from -2 to +0."
+      ]
+    },
+    {
+      "number": 11,
+      "title": "The Last Shape of The Ethics Of Forgetting",
+      "act": "Climax",
+      "theme": "the ethics of forgetting",
+      "focus": "Ren Vale",
+      "secondary": "Kaede Voss",
+      "tension": 9.5,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "The remaining safe option disappears before the team can agree on a plan. The oldest active question concerns the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands."
+        },
+        {
+          "label": "Character choice",
+          "description": "Ren Vale pursues “prove the public archive was deliberately corrupted” but must act through their fear of trusting evidence that has been altered; the decision highlights their meticulous but quietly idealistic nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Kaede Voss, representing Continuity Council, challenges the method rather than the goal. At tension 9.5/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The cast resolves who benefits when Kaede Voss's fear becomes public, but the answer transfers responsibility to Ren Vale."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [
+        "who benefits when Kaede Voss's fear becomes public"
+      ],
+      "relationship_changes": [
+        "Their ideological debt deepens: Ren Vale ↔ Kaede Voss shifts from -3 to -1."
+      ]
+    },
+    {
+      "number": 12,
+      "title": "Mina Kisaragi Chooses the Dawn",
+      "act": "Climax",
+      "theme": "hope after public failure",
+      "focus": "Mina Kisaragi",
+      "secondary": "Pico",
+      "tension": 7.5,
+      "beats": [
+        {
+          "label": "Cold open",
+          "description": "A recovered memory forces the cast to reinterpret the promise that united them."
+        },
+        {
+          "label": "Character choice",
+          "description": "Mina Kisaragi pursues “restore the memories stolen from the Lantern District” but must act through their fear of becoming emotionally numb like her missing mother; the decision highlights their impulsively compassionate nature."
+        },
+        {
+          "label": "Relational pressure",
+          "description": "Pico, representing Unregistered Familiar, challenges the method rather than the goal. At tension 7.5/10, compromise carries a visible cost."
+        },
+        {
+          "label": "Ending turn",
+          "description": "The cast resolves the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands, but the answer transfers responsibility to Mina Kisaragi."
+        }
+      ],
+      "introduced_threads": [],
+      "resolved_threads": [
+        "the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands",
+        "who benefits when Mina Kisaragi's fear becomes public"
+      ],
+      "relationship_changes": [
+        "Their found family deepens: Mina Kisaragi ↔ Pico shifts from +2 to +3."
+      ]
+    }
+  ],
+  "final_relationships": [
+    {
+      "characters": [
+        "Doctor Ilya Mori",
+        "Kaede Voss"
+      ],
+      "kind": "former partnership",
+      "initial_intensity": -4,
+      "final_intensity": -5
+    },
+    {
+      "characters": [
+        "Doctor Ilya Mori",
+        "Mina Kisaragi"
+      ],
+      "kind": "mentorship",
+      "initial_intensity": 2,
+      "final_intensity": 2
+    },
+    {
+      "characters": [
+        "Doctor Ilya Mori",
+        "Ren Vale"
+      ],
+      "kind": "shared secret",
+      "initial_intensity": -1,
+      "final_intensity": 0
+    },
+    {
+      "characters": [
+        "Kaede Voss",
+        "Pico"
+      ],
+      "kind": "creator mystery",
+      "initial_intensity": -2,
+      "final_intensity": -1
+    },
+    {
+      "characters": [
+        "Kaede Voss",
+        "Ren Vale"
+      ],
+      "kind": "ideological debt",
+      "initial_intensity": -3,
+      "final_intensity": -1
+    },
+    {
+      "characters": [
+        "Kaede Voss",
+        "Sora Nami"
+      ],
+      "kind": "coerced alliance",
+      "initial_intensity": -2,
+      "final_intensity": 0
+    },
+    {
+      "characters": [
+        "Mina Kisaragi",
+        "Pico"
+      ],
+      "kind": "found family",
+      "initial_intensity": 3,
+      "final_intensity": 3
+    },
+    {
+      "characters": [
+        "Mina Kisaragi",
+        "Ren Vale"
+      ],
+      "kind": "uneasy trust",
+      "initial_intensity": 1,
+      "final_intensity": 2
+    },
+    {
+      "characters": [
+        "Mina Kisaragi",
+        "Sora Nami"
+      ],
+      "kind": "rivalry",
+      "initial_intensity": -2,
+      "final_intensity": -2
+    }
+  ],
+  "threads": [
+    {
+      "thread_id": "T01",
+      "description": "why Sky Post erased a record connected to memory versus identity",
+      "introduced_in": 1,
+      "resolved_in": 6
+    },
+    {
+      "thread_id": "T02",
+      "description": "who benefits when Pico's fear becomes public",
+      "introduced_in": 2,
+      "resolved_in": 8
+    },
+    {
+      "thread_id": "T03",
+      "description": "why Civic Archive erased a record connected to the ethics of forgetting",
+      "introduced_in": 3,
+      "resolved_in": 10
+    },
+    {
+      "thread_id": "T04",
+      "description": "the real cost of Doctor Ilya Mori's goal: keep memory-folding technology out of military hands",
+      "introduced_in": 4,
+      "resolved_in": 12
+    },
+    {
+      "thread_id": "T05",
+      "description": "who benefits when Mina Kisaragi's fear becomes public",
+      "introduced_in": 5,
+      "resolved_in": 12
+    },
+    {
+      "thread_id": "T06",
+      "description": "who benefits when Kaede Voss's fear becomes public",
+      "introduced_in": 6,
+      "resolved_in": 11
+    }
+  ]
+}
