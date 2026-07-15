@@ -1,0 +1,72 @@
+{
+  "title": "Neon Paper Cranes",
+  "premise": "In the floating city of Hoshima, memories can be folded into paper familiars. When whole neighborhoods begin forgetting the same night, a rooftop courier and a disgraced archivist must trace the missing memories before the city votes to erase its own past.",
+  "themes": [
+    "memory versus identity",
+    "chosen family",
+    "the ethics of forgetting",
+    "hope after public failure"
+  ],
+  "season_length": 12,
+  "characters": [
+    {
+      "name": "Mina Kisaragi",
+      "role": "protagonist",
+      "goal": "restore the memories stolen from the Lantern District",
+      "fear": "becoming emotionally numb like her missing mother",
+      "trait": "impulsively compassionate",
+      "faction": "Sky Post"
+    },
+    {
+      "name": "Ren Vale",
+      "role": "deuteragonist",
+      "goal": "prove the public archive was deliberately corrupted",
+      "fear": "trusting evidence that has been altered",
+      "trait": "meticulous but quietly idealistic",
+      "faction": "Civic Archive"
+    },
+    {
+      "name": "Sora Nami",
+      "role": "rival",
+      "goal": "win control of the courier routes before the monsoon season",
+      "fear": "being valued only as a replacement for an older sibling",
+      "trait": "competitive and unexpectedly loyal",
+      "faction": "Blue Kite Guild"
+    },
+    {
+      "name": "Doctor Ilya Mori",
+      "role": "mentor",
+      "goal": "keep memory-folding technology out of military hands",
+      "fear": "admitting that her own research enabled the crisis",
+      "trait": "wry, evasive, and protective",
+      "faction": "Independent Fold Lab"
+    },
+    {
+      "name": "Kaede Voss",
+      "role": "antagonist",
+      "goal": "erase the city's shared trauma to prevent another civil war",
+      "fear": "that people will always choose revenge when given the truth",
+      "trait": "calm, sincere, and ruthlessly paternal",
+      "faction": "Continuity Council"
+    },
+    {
+      "name": "Pico",
+      "role": "support",
+      "goal": "recover the voice sealed inside its paper body",
+      "fear": "unfolding into someone the team no longer recognizes",
+      "trait": "mischievous and pattern-obsessed",
+      "faction": "Unregistered Familiar"
+    }
+  ],
+  "relations": [
+    {"source": "Mina Kisaragi", "target": "Ren Vale", "kind": "uneasy trust", "intensity": 1},
+    {"source": "Mina Kisaragi", "target": "Sora Nami", "kind": "rivalry", "intensity": -2},
+    {"source": "Mina Kisaragi", "target": "Doctor Ilya Mori", "kind": "mentorship", "intensity": 2},
+    {"source": "Mina Kisaragi", "target": "Pico", "kind": "found family", "intensity": 3},
+    {"source": "Ren Vale", "target": "Kaede Voss", "kind": "ideological debt", "intensity": -3},
+    {"source": "Ren Vale", "target": "Doctor Ilya Mori", "kind": "shared secret", "intensity": -1},
+    {"source": "Sora Nami", "target": "Kaede Voss", "kind": "coerced alliance", "intensity": -2},
+    {"source": "Doctor Ilya Mori", "target": "Kaede Voss", "kind": "former partnership", "intensity": -4},
+    {"source": "Pico", "target": "Kaede Voss", "kind": "creator mystery", "intensity": -2}
+  ]
+}
