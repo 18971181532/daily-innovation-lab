@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="440" viewBox="0 0 1100 440">
+<title>Tension curve for Neon Paper Cranes</title>
+<rect width="100%" height="100%" fill="#101522"/>
+<text x="72" y="32" fill="#f6f2ff" font-family="system-ui" font-size="20">Neon Paper Cranes — season tension</text>
+<line x1="72" y1="378.0" x2="1028" y2="378.0" stroke="#273149"/>
+<text x="48" y="382.0" fill="#8792aa" font-family="monospace" font-size="12">1</text>
+<line x1="72" y1="342.9" x2="1028" y2="342.9" stroke="#273149"/>
+<text x="48" y="346.9" fill="#8792aa" font-family="monospace" font-size="12">2</text>
+<line x1="72" y1="307.8" x2="1028" y2="307.8" stroke="#273149"/>
+<text x="48" y="311.8" fill="#8792aa" font-family="monospace" font-size="12">3</text>
+<line x1="72" y1="272.7" x2="1028" y2="272.7" stroke="#273149"/>
+<text x="48" y="276.7" fill="#8792aa" font-family="monospace" font-size="12">4</text>
+<line x1="72" y1="237.6" x2="1028" y2="237.6" stroke="#273149"/>
+<text x="48" y="241.6" fill="#8792aa" font-family="monospace" font-size="12">5</text>
+<line x1="72" y1="202.4" x2="1028" y2="202.4" stroke="#273149"/>
+<text x="48" y="206.4" fill="#8792aa" font-family="monospace" font-size="12">6</text>
+<line x1="72" y1="167.3" x2="1028" y2="167.3" stroke="#273149"/>
+<text x="48" y="171.3" fill="#8792aa" font-family="monospace" font-size="12">7</text>
+<line x1="72" y1="132.2" x2="1028" y2="132.2" stroke="#273149"/>
+<text x="48" y="136.2" fill="#8792aa" font-family="monospace" font-size="12">8</text>
+<line x1="72" y1="97.1" x2="1028" y2="97.1" stroke="#273149"/>
+<text x="48" y="101.1" fill="#8792aa" font-family="monospace" font-size="12">9</text>
+<line x1="72" y1="62.0" x2="1028" y2="62.0" stroke="#273149"/>
+<text x="48" y="66.0" fill="#8792aa" font-family="monospace" font-size="12">10</text>
+<polyline points="72.0,314.8 158.9,293.7 245.8,244.6 332.7,230.5 419.6,213.0 506.5,202.4 593.5,156.8 680.4,153.3 767.3,135.7 854.2,90.1 941.1,79.6 1028.0,149.8" fill="none" stroke="#ff7ac6" stroke-width="4" stroke-linejoin="round"/>
+<circle cx="72.0" cy="314.8" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="72.0" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E1</text>
+<circle cx="158.9" cy="293.7" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="158.9" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E2</text>
+<circle cx="245.8" cy="244.6" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="245.8" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E3</text>
+<circle cx="332.7" cy="230.5" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="332.7" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E4</text>
+<circle cx="419.6" cy="213.0" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="419.6" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E5</text>
+<circle cx="506.5" cy="202.4" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="506.5" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E6</text>
+<circle cx="593.5" cy="156.8" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="593.5" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E7</text>
+<circle cx="680.4" cy="153.3" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="680.4" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E8</text>
+<circle cx="767.3" cy="135.7" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="767.3" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E9</text>
+<circle cx="854.2" cy="90.1" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="854.2" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E10</text>
+<circle cx="941.1" cy="79.6" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="941.1" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E11</text>
+<circle cx="1028.0" cy="149.8" r="6" fill="#74e6ff" stroke="#101522" stroke-width="2"/>
+<text x="1028.0" y="416" text-anchor="middle" fill="#cbd5e8" font-family="monospace" font-size="12">E12</text>
+</svg>
