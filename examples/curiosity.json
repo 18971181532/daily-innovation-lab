@@ -1,0 +1,22 @@
+{
+  "generator": "text-constellation",
+  "version": "0.2.0",
+  "fingerprint": "57180f78edf99b61",
+  "theme": "nebula",
+  "canvas": {
+    "width": 1200,
+    "height": 630
+  },
+  "graph": {
+    "connected": true,
+    "stars": 32,
+    "edges": 45,
+    "backbone_edges": 31,
+    "local_edges": 14,
+    "average_degree": 2.812,
+    "max_degree": 4,
+    "density": 0.09073,
+    "average_edge_length": 106.03,
+    "longest_edge": 303.417
+  }
+}
